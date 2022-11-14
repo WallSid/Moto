@@ -14,3 +14,31 @@
 		display: block;
 	}
 }
+
+._icon-cross:before {
+	content: "\ea0f";
+  }
+  ._icon-instagramBig:before {
+	content: "\e900";
+  }
+  ._icon-calendar:before {
+	content: "\e901";
+  }
+  ._icon-cart:before {
+	content: "\e902";
+  }
+  ._icon-placeholder:before {
+	content: "\e903";
+  }
+  ._icon-facebook:before {
+	content: "\e904";
+  }
+  ._icon-instMini:before {
+	content: "\e905";
+  }
+  ._icon-ticket:before {
+	content: "\e906";
+  }
+  ._icon-arrow:before {
+	content: "\e907";
+  }
